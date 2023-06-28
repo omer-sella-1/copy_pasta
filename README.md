@@ -24,6 +24,8 @@ Copy Pasta is a simple clipboard management tool that allows you to save and man
 
 2. Install the required dependencies by running the following command: pip install -r requirements.txt
 
+3. Reach out to me at omersella95@gmail.com for an Executable! 
+
 ## Usage
 
 1. Run the application by executing the `main.py` file: python main.py
